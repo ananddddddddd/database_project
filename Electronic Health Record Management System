@@ -1,0 +1,3 @@
+We have chosen to implement an electronic DBMS that will be a collective design for storing all the hospital operations. This system will help to keep the  details in a single source and can be accessed anytime.
+Created  Electronic Health Record Management System database for different records handled by hospital and executed create,
+delete, append operations through Python to SQL and MongoDB.
